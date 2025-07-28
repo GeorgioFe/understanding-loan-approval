@@ -1,1 +1,1 @@
-# understanding-loan-approval
+# COGS 108 Final Project
